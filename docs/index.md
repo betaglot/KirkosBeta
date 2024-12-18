@@ -4,22 +4,19 @@ layout: home
 
 hero:
   name: "KirkosBeta"
-  text: "The Elements of Travelling Rings"
-  tagline: My great project tagline
+  text: "Be the Beta"
+  image: /Betaglot_Logo.png
+  tagline: "The Elements of Travelling Rings"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: I'm new to KirkosBeta
+      link: /guide/Overview
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: "Last Updated:"
+    details: Dec 18, 2024
+  - title: "BETAGLOT"
+    details: Created with Betaglot
+    link: https://betaglot.org/
 ---
 

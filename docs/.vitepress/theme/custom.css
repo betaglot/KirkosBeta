@@ -1,0 +1,73 @@
+/* .vitepress/theme/custom.css */
+:root {
+    --vp-c-brand-1: #569cd6;
+    --vp-c-brand-2: #9cdcfe;
+    --vp-c-brand-3: #569cd6;
+  
+  }
+  
+  .vp-doc a {
+    color: inherit;
+  }
+  
+  .youtube-video {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+  }
+  
+  .title {
+  
+    color: #6a9955;
+  }
+  
+  
+  move {
+    color: #bf6a34;
+  
+  }
+  
+  via {
+    color: #f44747
+  }
+  
+  
+  psike {
+    color: #c586c0
+  }
+  
+  beta {
+    color: #569cd6
+  }
+  
+  eko {
+    color: #6a9955
+  }
+  
+  bg {
+    color: #1f1f1f
+  }
+  
+  dev {
+    color: #9cdcfe
+  }
+  
+  ye {
+    color: #ffd700
+  }
+  
+  py {
+    color: #98FF46;
+  }
+  
+  error {
+    text-decoration: underline red;
+  }
+  
+  .VPHomeHero .name span.clip {
+    font-size: 163%;
+  
+  }
+  
+  .VPNavBarTitle #text {
+    color: blue;
+  }
